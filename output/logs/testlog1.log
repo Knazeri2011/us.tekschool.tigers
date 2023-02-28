@@ -1,0 +1,363 @@
+2022-08-03 17:48:41,655 [main] INFO logger_File - Scenario Login to Test Environment with One User started
+2022-08-03 17:48:43,765 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-08-03 17:48:43,774 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2022-08-03 17:48:44,798 [main] INFO io.github.bonigarcia.wdm.Downloader - Downloading https://chromedriver.storage.googleapis.com/103.0.5060.134/chromedriver_win32.zip
+2022-08-03 17:48:45,940 [main] INFO io.github.bonigarcia.wdm.Downloader - Extracting binary from compressed file chromedriver_win32.zip
+2022-08-03 17:48:46,013 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-08-03 17:48:52,560 [main] INFO logger_File - Text Test Environment was verified
+2022-08-03 17:48:52,613 [main] INFO logger_File - My Account button was clicked successfully
+2022-08-03 17:48:52,839 [main] INFO logger_File - Login link was clicked successfully
+2022-08-03 17:48:52,967 [main] INFO logger_File - Email and password were entered successfully
+2022-08-03 17:48:53,344 [main] INFO logger_File - Login button was clicked successfully
+2022-08-03 17:48:53,376 [main] INFO logger_File - My Account text was verified successfully
+2022-08-03 17:48:54,040 [main] INFO logger_File - Scenario Login to Test Environment with One User PASSED
+2022-08-03 19:18:13,165 [main] INFO logger_File - Scenario Validate Tablets tab on the UI started
+2022-08-03 19:18:13,483 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-08-03 19:18:13,491 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-08-03 19:18:17,199 [main] INFO logger_File - Text Test Environment was verified
+2022-08-03 19:18:48,152 [main] INFO logger_File - Scenario Validate Tablets tab on the UI FAILED
+2022-08-03 19:39:41,453 [main] INFO logger_File - Scenario Validate Tablets tab on the UI started
+2022-08-03 19:39:41,794 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-08-03 19:39:41,803 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-08-03 19:39:45,376 [main] INFO logger_File - Text Test Environment was verified
+2022-08-03 19:40:16,397 [main] INFO logger_File - Scenario Validate Tablets tab on the UI FAILED
+2022-08-03 19:41:36,248 [main] INFO logger_File - Scenario Validate Tablets tab on the UI started
+2022-08-03 19:41:36,569 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-08-03 19:41:36,578 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-08-03 19:41:39,931 [main] INFO logger_File - Text Test Environment was verified
+2022-08-03 19:42:10,852 [main] INFO logger_File - Scenario Validate Tablets tab on the UI FAILED
+2022-08-03 19:45:21,849 [main] INFO logger_File - Scenario Validate Tablets tab on the UI started
+2022-08-03 19:45:22,166 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-08-03 19:45:22,174 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-08-03 19:45:25,528 [main] INFO logger_File - Text Test Environment was verified
+2022-08-03 19:45:56,446 [main] INFO logger_File - Scenario Validate Tablets tab on the UI FAILED
+2022-08-03 19:56:39,347 [main] INFO logger_File - Scenario Validate Tablets tab on the UI started
+2022-08-03 19:56:39,642 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-08-03 19:56:39,650 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-08-03 19:56:43,098 [main] INFO logger_File - Text Test Environment was verified
+2022-08-03 19:57:13,980 [main] INFO logger_File - Scenario Validate Tablets tab on the UI FAILED
+2022-08-03 20:04:03,327 [main] INFO logger_File - Scenario Validate Tablets tab on the UI started
+2022-08-03 20:04:03,623 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-08-03 20:04:03,631 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-08-03 20:04:07,202 [main] INFO logger_File - Text Test Environment was verified
+2022-08-03 20:04:38,151 [main] INFO logger_File - Scenario Validate Tablets tab on the UI FAILED
+2022-08-03 20:54:09,938 [main] INFO logger_File - Scenario Validate Tablets tab on the UI started
+2022-08-03 20:54:10,260 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-08-03 20:54:10,269 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-08-03 20:54:13,724 [main] INFO logger_File - Text Test Environment was verified
+2022-08-03 20:54:44,681 [main] INFO logger_File - Scenario Validate Tablets tab on the UI FAILED
+2022-08-03 21:19:39,397 [main] INFO logger_File - Scenario Validate Tablets tab on the UI started
+2022-08-03 21:19:39,727 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-08-03 21:19:39,735 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-08-03 21:19:42,995 [main] INFO logger_File - Text Test Environment was verified
+2022-08-03 21:19:43,045 [main] INFO logger_File - Mouse was moved to Destop Link Successfully
+2022-08-03 21:19:43,072 [main] INFO logger_File - Show All Desktop text was verified successfully
+2022-08-03 21:19:43,582 [main] INFO logger_File - Show All Desktop link was clicked successfully
+2022-08-03 21:19:43,611 [main] INFO logger_File - Tablets text was verified successfully
+2022-08-03 21:19:44,223 [main] INFO logger_File - Scenario Validate Tablets tab on the UI PASSED
+2022-08-03 22:15:21,055 [main] INFO logger_File - Scenario Login to Test Environment with One User started
+2022-08-03 22:15:21,348 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-08-03 22:15:21,357 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-08-03 22:15:25,142 [main] INFO logger_File - Text Test Environment was verified
+2022-08-03 22:15:25,193 [main] INFO logger_File - My Account button was clicked successfully
+2022-08-03 22:15:25,413 [main] INFO logger_File - Login link was clicked successfully
+2022-08-03 22:15:25,523 [main] INFO logger_File - Email and password were entered successfully
+2022-08-03 22:15:25,916 [main] INFO logger_File - Login button was clicked successfully
+2022-08-03 22:15:25,944 [main] INFO logger_File - My Account text was verified successfully
+2022-08-03 22:15:26,567 [main] INFO logger_File - Scenario Login to Test Environment with One User PASSED
+2022-08-03 22:15:26,577 [main] INFO logger_File - Scenario Login with multile users started
+2022-08-03 22:15:26,581 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-08-03 22:15:26,584 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-08-03 22:15:29,802 [main] INFO logger_File - Text Test Environment was verified
+2022-08-03 22:15:29,854 [main] INFO logger_File - My Account button was clicked successfully
+2022-08-03 22:15:30,069 [main] INFO logger_File - Login link was clicked successfully
+2022-08-03 22:15:30,186 [main] INFO logger_File - All three users were able to login successfully
+2022-08-03 22:15:30,560 [main] INFO logger_File - Login button was clicked successfully
+2022-08-03 22:15:30,581 [main] INFO logger_File - My Account text was verified successfully
+2022-08-03 22:15:31,216 [main] INFO logger_File - Scenario Login with multile users PASSED
+2022-08-03 22:15:31,222 [main] INFO logger_File - Scenario Login with multile users started
+2022-08-03 22:15:31,226 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-08-03 22:15:31,228 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-08-03 22:15:34,928 [main] INFO logger_File - Text Test Environment was verified
+2022-08-03 22:15:34,982 [main] INFO logger_File - My Account button was clicked successfully
+2022-08-03 22:15:35,238 [main] INFO logger_File - Login link was clicked successfully
+2022-08-03 22:15:35,343 [main] INFO logger_File - All three users were able to login successfully
+2022-08-03 22:15:35,736 [main] INFO logger_File - Login button was clicked successfully
+2022-08-03 22:15:35,769 [main] INFO logger_File - My Account text was verified successfully
+2022-08-03 22:15:36,391 [main] INFO logger_File - Scenario Login with multile users PASSED
+2022-08-03 22:15:36,395 [main] INFO logger_File - Scenario Login with multile users started
+2022-08-03 22:15:36,398 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-08-03 22:15:36,400 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-08-03 22:15:39,439 [main] INFO logger_File - Text Test Environment was verified
+2022-08-03 22:15:39,489 [main] INFO logger_File - My Account button was clicked successfully
+2022-08-03 22:15:39,708 [main] INFO logger_File - Login link was clicked successfully
+2022-08-03 22:15:39,822 [main] INFO logger_File - All three users were able to login successfully
+2022-08-03 22:15:40,153 [main] INFO logger_File - Login button was clicked successfully
+2022-08-03 22:15:40,185 [main] INFO logger_File - My Account text was verified successfully
+2022-08-03 22:15:40,811 [main] INFO logger_File - Scenario Login with multile users PASSED
+2022-08-03 22:20:54,357 [main] INFO logger_File - Scenario Login to Test Environment with One User started
+2022-08-03 22:20:54,658 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-08-03 22:20:54,667 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-08-03 22:20:58,682 [main] INFO logger_File - Text Test Environment was verified
+2022-08-03 22:20:58,738 [main] INFO logger_File - My Account button was clicked successfully
+2022-08-03 22:20:58,946 [main] INFO logger_File - Login link was clicked successfully
+2022-08-03 22:20:59,071 [main] INFO logger_File - Email and password were entered successfully
+2022-08-03 22:20:59,444 [main] INFO logger_File - Login button was clicked successfully
+2022-08-03 22:20:59,479 [main] INFO logger_File - My Account text was verified successfully
+2022-08-03 22:21:00,210 [main] INFO logger_File - Scenario Login to Test Environment with One User PASSED
+2022-08-03 22:21:00,229 [main] INFO logger_File - Scenario Login with multile users started
+2022-08-03 22:21:00,233 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-08-03 22:21:00,236 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-08-03 22:21:03,248 [main] INFO logger_File - Text Test Environment was verified
+2022-08-03 22:21:03,285 [main] INFO logger_File - My Account button was clicked successfully
+2022-08-03 22:21:03,491 [main] INFO logger_File - Login link was clicked successfully
+2022-08-03 22:21:04,093 [main] INFO logger_File - Scenario Login with multile users UNDEFINED
+2022-08-03 22:21:04,097 [main] INFO logger_File - Scenario Login with multile users started
+2022-08-03 22:21:04,101 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-08-03 22:21:04,103 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-08-03 22:21:07,539 [main] INFO logger_File - Text Test Environment was verified
+2022-08-03 22:21:07,591 [main] INFO logger_File - My Account button was clicked successfully
+2022-08-03 22:21:07,808 [main] INFO logger_File - Login link was clicked successfully
+2022-08-03 22:21:08,445 [main] INFO logger_File - Scenario Login with multile users UNDEFINED
+2022-08-03 22:21:08,450 [main] INFO logger_File - Scenario Login with multile users started
+2022-08-03 22:21:08,453 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-08-03 22:21:08,455 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-08-03 22:21:12,159 [main] INFO logger_File - Text Test Environment was verified
+2022-08-03 22:21:12,210 [main] INFO logger_File - My Account button was clicked successfully
+2022-08-03 22:21:12,429 [main] INFO logger_File - Login link was clicked successfully
+2022-08-03 22:21:13,057 [main] INFO logger_File - Scenario Login with multile users UNDEFINED
+2022-08-03 22:27:02,352 [main] INFO logger_File - Scenario Login with multile users started
+2022-08-03 22:27:02,666 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-08-03 22:27:02,675 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-08-03 22:27:06,391 [main] INFO logger_File - Text Test Environment was verified
+2022-08-03 22:27:06,447 [main] INFO logger_File - My Account button was clicked successfully
+2022-08-03 22:27:06,666 [main] INFO logger_File - Login link was clicked successfully
+2022-08-03 22:27:06,787 [main] INFO logger_File - All three users were able to login successfully
+2022-08-03 22:27:07,147 [main] INFO logger_File - Login button was clicked successfully
+2022-08-03 22:27:07,180 [main] INFO logger_File - My Account text was verified successfully
+2022-08-03 22:27:07,801 [main] INFO logger_File - Scenario Login with multile users PASSED
+2022-08-03 22:27:07,810 [main] INFO logger_File - Scenario Login with multile users started
+2022-08-03 22:27:07,813 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-08-03 22:27:07,816 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-08-03 22:27:10,944 [main] INFO logger_File - Text Test Environment was verified
+2022-08-03 22:27:10,998 [main] INFO logger_File - My Account button was clicked successfully
+2022-08-03 22:27:11,200 [main] INFO logger_File - Login link was clicked successfully
+2022-08-03 22:27:11,312 [main] INFO logger_File - All three users were able to login successfully
+2022-08-03 22:27:11,650 [main] INFO logger_File - Login button was clicked successfully
+2022-08-03 22:27:11,676 [main] INFO logger_File - My Account text was verified successfully
+2022-08-03 22:27:12,299 [main] INFO logger_File - Scenario Login with multile users PASSED
+2022-08-03 22:27:12,305 [main] INFO logger_File - Scenario Login with multile users started
+2022-08-03 22:27:12,309 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-08-03 22:27:12,312 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-08-03 22:27:15,438 [main] INFO logger_File - Text Test Environment was verified
+2022-08-03 22:27:15,490 [main] INFO logger_File - My Account button was clicked successfully
+2022-08-03 22:27:15,689 [main] INFO logger_File - Login link was clicked successfully
+2022-08-03 22:27:15,806 [main] INFO logger_File - All three users were able to login successfully
+2022-08-03 22:27:16,147 [main] INFO logger_File - Login button was clicked successfully
+2022-08-03 22:27:16,167 [main] INFO logger_File - My Account text was verified successfully
+2022-08-03 22:27:16,793 [main] INFO logger_File - Scenario Login with multile users PASSED
+2022-08-04 19:56:46,871 [main] INFO logger_File - Scenario Validate Homepage links started
+2022-08-04 19:56:54,937 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-08-04 19:56:54,946 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-08-04 19:56:59,761 [main] INFO logger_File - Scenario Validate Homepage links UNDEFINED
+2022-08-04 20:00:23,922 [main] INFO logger_File - Scenario Validate Homepage links started
+2022-08-04 20:00:24,220 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-08-04 20:00:24,228 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-08-04 20:00:27,870 [main] INFO logger_File - Text Test Environment was verified
+2022-08-04 20:00:28,509 [main] INFO logger_File - Scenario Validate Homepage links UNDEFINED
+2022-08-04 20:12:14,968 [main] INFO logger_File - Scenario Validate Homepage links started
+2022-08-04 20:12:15,258 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-08-04 20:12:15,266 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-08-04 20:12:18,786 [main] INFO logger_File - Text Test Environment was verified
+2022-08-04 20:12:19,413 [main] INFO logger_File - Scenario Validate Homepage links UNDEFINED
+2022-08-04 20:55:00,148 [main] INFO logger_File - Scenario Validate Homepage links started
+2022-08-04 20:55:00,460 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-08-04 20:55:00,469 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-08-04 20:55:04,219 [main] INFO logger_File - Text Test Environment was verified
+2022-08-04 20:55:04,246 [main] INFO logger_File - Text for Desktopsverified successfully
+2022-08-04 20:55:04,285 [main] INFO logger_File - Text for Laptops & Notebooksverified successfully
+2022-08-04 20:55:04,307 [main] INFO logger_File - Text for Componentsverified successfully
+2022-08-04 20:55:04,345 [main] INFO logger_File - Text for Tabletsverified successfully
+2022-08-04 20:55:04,370 [main] INFO logger_File - Text for Softwareverified successfully
+2022-08-04 20:55:04,399 [main] INFO logger_File - Text for Phones & PDAsverified successfully
+2022-08-04 20:55:04,430 [main] INFO logger_File - Text for Camerasverified successfully
+2022-08-04 20:55:04,446 [main] INFO logger_File - Text for MP3 Playersverified successfully
+2022-08-04 20:55:05,103 [main] INFO logger_File - Scenario Validate Homepage links PASSED
+2022-08-05 18:55:30,121 [main] INFO logger_File - Scenario We are just practicing started
+2022-08-05 18:55:30,620 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-08-05 18:55:30,631 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-08-05 18:55:50,401 [main] INFO logger_File - Scenario We are just practicing UNDEFINED
+2022-08-06 14:30:02,112 [main] INFO logger_File - Scenario We are just practicing started
+2022-08-06 14:30:22,950 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-08-06 14:30:22,954 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2022-08-06 14:30:51,860 [main] WARN io.github.bonigarcia.wdm.WebDriverManager - There was an error managing chromedriver 104.0.5112.79 (Remote host terminated the handshake) ... trying again using mirror
+2022-08-06 14:31:22,410 [main] WARN io.github.bonigarcia.wdm.WebDriverManager - There was an error managing chromedriver 104.0.5112.79 (Read timed out) ... trying again using latest from cache
+2022-08-06 14:32:23,293 [main] INFO logger_File - Scenario We are just practicing started
+2022-08-06 14:32:23,617 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-08-06 14:32:23,619 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2022-08-06 14:32:24,180 [main] INFO io.github.bonigarcia.wdm.Downloader - Downloading https://chromedriver.storage.googleapis.com/104.0.5112.79/chromedriver_win32.zip
+2022-08-06 14:32:25,098 [main] INFO io.github.bonigarcia.wdm.Downloader - Extracting binary from compressed file chromedriver_win32.zip
+2022-08-06 14:32:25,167 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-08-06 14:32:30,683 [main] INFO logger_File - Scenario We are just practicing PASSED
+2022-08-06 15:03:42,366 [main] INFO logger_File - Scenario We are just practicing started
+2022-08-06 15:03:42,708 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-08-06 15:03:42,716 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-08-06 15:03:47,460 [main] INFO logger_File - Scenario We are just practicing PASSED
+2022-08-06 15:06:01,275 [main] INFO logger_File - Scenario We are just practicing started
+2022-08-06 15:06:01,590 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-08-06 15:06:01,606 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-08-06 15:06:35,947 [main] INFO logger_File - Scenario We are just practicing FAILED
+2022-08-06 15:13:21,483 [main] INFO logger_File - Scenario We are just practicing started
+2022-08-06 15:13:21,802 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-08-06 15:13:21,818 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-08-06 15:13:26,274 [main] INFO logger_File - Scenario We are just practicing FAILED
+2022-08-07 17:42:34,075 [main] INFO logger_File - Scenario Register with Test Environment Website started
+2022-08-07 17:42:36,200 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-08-07 17:42:36,211 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-08-07 17:42:40,512 [main] INFO logger_File - Text Test Environment was verified
+2022-08-07 17:42:40,570 [main] INFO logger_File - My Account button was clicked successfully
+2022-08-07 17:42:41,199 [main] INFO logger_File - Scenario Register with Test Environment Website UNDEFINED
+2022-08-07 17:45:11,263 [main] INFO logger_File - Scenario Register with Test Environment Website started
+2022-08-07 17:45:11,556 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-08-07 17:45:11,564 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-08-07 17:45:15,565 [main] INFO logger_File - Text Test Environment was verified
+2022-08-07 17:45:15,616 [main] INFO logger_File - My Account button was clicked successfully
+2022-08-07 17:45:16,235 [main] INFO logger_File - Scenario Register with Test Environment Website UNDEFINED
+2022-08-07 20:03:11,819 [main] INFO logger_File - Scenario Register with Test Environment Website started
+2022-08-07 20:03:12,373 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-08-07 20:03:12,389 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-08-07 20:03:19,660 [main] INFO logger_File - Text Test Environment was verified
+2022-08-07 20:03:19,764 [main] INFO logger_File - My Account button was clicked successfully
+2022-08-07 20:03:20,441 [main] INFO logger_File - Scenario Register with Test Environment Website UNDEFINED
+2022-08-07 21:44:35,786 [main] INFO logger_File - Scenario Register with Test Environment Website started
+2022-08-07 21:44:36,101 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-08-07 21:44:36,109 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-08-07 21:44:39,616 [main] INFO logger_File - Text Test Environment was verified
+2022-08-07 21:44:39,665 [main] INFO logger_File - My Account button was clicked successfully
+2022-08-07 21:44:40,354 [main] INFO logger_File - Register link was clicked successfully
+2022-08-07 21:44:40,677 [main] INFO logger_File - Registeration from is filled-out successfully
+2022-08-07 21:44:40,796 [main] INFO logger_File - Yes for newsletter was clicked successfully
+2022-08-07 21:44:40,906 [main] INFO logger_File - check box for privacy policy was clicked successfully
+2022-08-07 21:44:41,143 [main] INFO logger_File - Continue button was clicked successfully
+2022-08-07 21:45:11,956 [main] INFO logger_File - Scenario Register with Test Environment Website FAILED
+2022-08-07 21:49:00,902 [main] INFO logger_File - Scenario Register with Test Environment Website started
+2022-08-07 21:49:01,908 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-08-07 21:49:01,918 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-08-07 21:49:05,519 [main] INFO logger_File - Text Test Environment was verified
+2022-08-07 21:49:05,571 [main] INFO logger_File - My Account button was clicked successfully
+2022-08-07 21:49:06,232 [main] INFO logger_File - Register link was clicked successfully
+2022-08-07 21:49:06,536 [main] INFO logger_File - Registeration from is filled-out successfully
+2022-08-07 21:49:06,657 [main] INFO logger_File - Yes for newsletter was clicked successfully
+2022-08-07 21:49:06,765 [main] INFO logger_File - check box for privacy policy was clicked successfully
+2022-08-07 21:49:06,995 [main] INFO logger_File - Continue button was clicked successfully
+2022-08-07 21:49:37,860 [main] INFO logger_File - Scenario Register with Test Environment Website FAILED
+2022-08-07 21:50:08,504 [main] INFO logger_File - Scenario Register with Test Environment Website started
+2022-08-07 21:50:08,819 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-08-07 21:50:08,827 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-08-07 21:50:12,146 [main] INFO logger_File - Text Test Environment was verified
+2022-08-07 21:50:12,197 [main] INFO logger_File - My Account button was clicked successfully
+2022-08-07 21:50:12,805 [main] INFO logger_File - Register link was clicked successfully
+2022-08-07 21:50:13,126 [main] INFO logger_File - Registeration from is filled-out successfully
+2022-08-07 21:50:13,238 [main] INFO logger_File - Yes for newsletter was clicked successfully
+2022-08-07 21:50:13,358 [main] INFO logger_File - check box for privacy policy was clicked successfully
+2022-08-07 21:50:13,836 [main] INFO logger_File - Continue button was clicked successfully
+2022-08-07 21:50:13,861 [main] INFO logger_File - Expected & Actual Text was verified successfully
+2022-08-07 21:50:16,853 [main] INFO logger_File - Scenario Register with Test Environment Website PASSED
+2022-08-08 14:38:19,371 [main] INFO logger_File - Scenario Register with Test Environment Website started
+2022-08-08 14:38:19,946 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-08-08 14:38:19,961 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-08-08 14:38:27,665 [main] INFO logger_File - Text Test Environment was verified
+2022-08-08 14:38:27,772 [main] INFO logger_File - My Account button was clicked successfully
+2022-08-08 14:38:28,576 [main] INFO logger_File - Register link was clicked successfully
+2022-08-08 14:38:29,685 [main] INFO logger_File - Registeration from is filled-out successfully
+2022-08-08 14:38:29,992 [main] INFO logger_File - Yes for newsletter was clicked successfully
+2022-08-08 14:38:30,303 [main] INFO logger_File - check box for privacy policy was clicked successfully
+2022-08-08 14:38:30,635 [main] INFO logger_File - Continue button was clicked successfully
+2022-08-08 14:39:01,811 [main] INFO logger_File - Scenario Register with Test Environment Website FAILED
+2022-08-08 14:43:14,618 [main] INFO logger_File - Scenario Register with Test Environment Website started
+2022-08-08 14:43:15,130 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-08-08 14:43:15,145 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-08-08 14:43:22,653 [main] INFO logger_File - Text Test Environment was verified
+2022-08-08 14:43:22,771 [main] INFO logger_File - My Account button was clicked successfully
+2022-08-08 14:43:23,710 [main] INFO logger_File - Register link was clicked successfully
+2022-08-08 14:43:24,785 [main] INFO logger_File - Registeration from is filled-out successfully
+2022-08-08 14:43:25,103 [main] INFO logger_File - Yes for newsletter was clicked successfully
+2022-08-08 14:43:25,383 [main] INFO logger_File - check box for privacy policy was clicked successfully
+2022-08-08 14:43:25,779 [main] INFO logger_File - Continue button was clicked successfully
+2022-08-08 14:43:56,835 [main] INFO logger_File - Scenario Register with Test Environment Website FAILED
+2022-08-08 14:44:27,934 [main] INFO logger_File - Scenario Register with Test Environment Website started
+2022-08-08 14:44:28,438 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-08-08 14:44:28,452 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-08-08 14:44:35,723 [main] INFO logger_File - Text Test Environment was verified
+2022-08-08 14:44:35,846 [main] INFO logger_File - My Account button was clicked successfully
+2022-08-08 14:44:36,756 [main] INFO logger_File - Register link was clicked successfully
+2022-08-08 14:44:37,752 [main] INFO logger_File - Registeration from is filled-out successfully
+2022-08-08 14:44:38,085 [main] INFO logger_File - Yes for newsletter was clicked successfully
+2022-08-08 14:44:38,359 [main] INFO logger_File - check box for privacy policy was clicked successfully
+2022-08-08 14:44:38,997 [main] INFO logger_File - Continue button was clicked successfully
+2022-08-08 14:44:39,065 [main] INFO logger_File - Expected & Actual Text was verified successfully
+2022-08-08 14:44:39,763 [main] INFO logger_File - Scenario Register with Test Environment Website PASSED
+2022-08-08 15:16:22,330 [main] INFO logger_File - Scenario Register with Test Environment Website started
+2022-08-08 15:16:22,820 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-08-08 15:16:22,833 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-08-08 15:16:30,156 [main] INFO logger_File - Text Test Environment was verified
+2022-08-08 15:16:30,247 [main] INFO logger_File - My Account button was clicked successfully
+2022-08-08 15:16:31,100 [main] INFO logger_File - Register link was clicked successfully
+2022-08-08 15:16:32,117 [main] INFO logger_File - Registeration from is filled-out successfully
+2022-08-08 15:16:32,452 [main] INFO logger_File - Yes for newsletter was clicked successfully
+2022-08-08 15:16:32,735 [main] INFO logger_File - check box for privacy policy was clicked successfully
+2022-08-08 15:16:33,060 [main] INFO logger_File - Continue button was clicked successfully
+2022-08-08 15:17:04,071 [main] INFO logger_File - Scenario Register with Test Environment Website FAILED
+2022-08-08 18:44:01,449 [main] INFO logger_File - Scenario Login to Test Environment with One User started
+2022-08-08 18:44:06,970 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-08-08 18:44:06,981 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-08-08 18:44:12,780 [main] INFO logger_File - Text Test Environment was verified
+2022-08-08 18:44:12,839 [main] INFO logger_File - My Account button was clicked successfully
+2022-08-08 18:44:13,054 [main] INFO logger_File - Login link was clicked successfully
+2022-08-08 18:44:13,178 [main] INFO logger_File - Email and password were entered successfully
+2022-08-08 18:44:13,512 [main] INFO logger_File - Login button was clicked successfully
+2022-08-08 18:44:13,540 [main] INFO logger_File - My Account text was verified successfully
+2022-08-08 18:44:14,193 [main] INFO logger_File - Scenario Login to Test Environment with One User PASSED
+2022-08-08 18:46:41,143 [main] INFO logger_File - Scenario Login to Test Environment with One User started
+2022-08-08 18:46:41,459 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-08-08 18:46:41,468 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-08-08 18:46:44,885 [main] INFO logger_File - Text Test Environment was verified
+2022-08-08 18:46:44,946 [main] INFO logger_File - My Account button was clicked successfully
+2022-08-08 18:46:45,157 [main] INFO logger_File - Login link was clicked successfully
+2022-08-08 18:46:45,412 [main] INFO logger_File - Email and password were entered successfully
+2022-08-08 18:46:45,734 [main] INFO logger_File - Login button was clicked successfully
+2022-08-08 18:46:45,764 [main] INFO logger_File - My Account text was verified successfully
+2022-08-08 18:46:46,373 [main] INFO logger_File - Scenario Login to Test Environment with One User PASSED
+2022-08-25 19:28:50,523 [main] INFO logger_File - Scenario Login to Test Environment with One User started
+2022-08-25 19:28:50,860 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-08-25 19:28:50,869 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-08-25 19:28:54,583 [main] INFO logger_File - Text Test Environment was verified
+2022-08-25 19:28:54,637 [main] INFO logger_File - My Account button was clicked successfully
+2022-08-25 19:28:54,870 [main] INFO logger_File - Login link was clicked successfully
+2022-08-25 19:28:55,137 [main] INFO logger_File - Email and password were entered successfully
+2022-08-25 19:28:55,515 [main] INFO logger_File - Login button was clicked successfully
+2022-08-25 19:28:55,544 [main] INFO logger_File - My Account text was verified successfully
+2022-08-25 19:28:56,177 [main] INFO logger_File - Scenario Login to Test Environment with One User PASSED
+2023-02-28 11:10:04,914 [main] INFO logger_File - Scenario Login to Test Environment with One User started
+2023-02-28 11:10:06,773 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-28 11:10:06,784 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2023-02-28 11:10:07,586 [main] INFO io.github.bonigarcia.wdm.Downloader - Downloading https://chromedriver.storage.googleapis.com/110.0.5481.77/chromedriver_win32.zip
+2023-02-28 11:10:08,603 [main] INFO io.github.bonigarcia.wdm.Downloader - Extracting binary from compressed file chromedriver_win32.zip
+2023-02-28 11:10:08,702 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-28 11:10:24,296 [main] INFO logger_File - Text Test Environment was verified
+2023-02-28 11:10:24,351 [main] INFO logger_File - My Account button was clicked successfully
+2023-02-28 11:10:24,579 [main] INFO logger_File - Login link was clicked successfully
+2023-02-28 11:10:24,835 [main] INFO logger_File - Email and password were entered successfully
+2023-02-28 11:10:25,217 [main] INFO logger_File - Login button was clicked successfully
+2023-02-28 11:10:25,252 [main] INFO logger_File - My Account text was verified successfully
+2023-02-28 11:10:25,932 [main] INFO logger_File - Scenario Login to Test Environment with One User PASSED
+2023-02-28 12:09:27,794 [main] INFO logger_File - Scenario Login to Test Environment with One User started
+2023-02-28 12:09:28,113 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-28 12:09:28,122 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nazer\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-28 12:09:36,110 [main] INFO logger_File - Text Test Environment was verified
+2023-02-28 12:09:36,163 [main] INFO logger_File - My Account button was clicked successfully
+2023-02-28 12:09:36,385 [main] INFO logger_File - Login link was clicked successfully
+2023-02-28 12:09:36,639 [main] INFO logger_File - Email and password were entered successfully
+2023-02-28 12:09:37,003 [main] INFO logger_File - Login button was clicked successfully
+2023-02-28 12:09:37,042 [main] INFO logger_File - My Account text was verified successfully
+2023-02-28 12:09:37,720 [main] INFO logger_File - Scenario Login to Test Environment with One User PASSED
